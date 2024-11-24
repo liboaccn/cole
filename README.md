@@ -1,9 +1,8 @@
 
-# CoLE: Chain of Legal Experts Prompting for Large Language Models in Law
-
+# CoLE: A Collaborative Legal Expert Prompting Framework for Large Language Models in Law
 ## Overview
 
-This repository contains the code and datasets used in our research paper on CoLE: Chain of Legal Experts Prompting for Large Language Models in Law.
+This repository contains the code and datasets used in our research paper on CoLE: A Collaborative Legal Expert Prompting Framework for Large Language Models in Law.
 ## Code
 
 To run the main script, use the following command:
